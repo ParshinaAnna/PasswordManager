@@ -35,7 +35,7 @@
 ## 🚀 Установка
 
 Способ 1: Скачать релиз
-1. Перейдите в раздел [Releases](https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/PasswordManager/releases)
+1. Перейдите в раздел [Repositories]([https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/PasswordManager/releases](https://github.com/ParshinaAnna?tab=repositories))
 2. Скачайте `диплом.zip`
 3. Распакуйте в любую папку
 4. Запустите `PasswordManager.exe`
