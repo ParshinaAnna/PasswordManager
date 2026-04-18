@@ -41,7 +41,7 @@
 4. Запустите `PasswordManager.exe`
 
 Способ 2: Сборка из исходников
-
+https://github.com/ParshinaAnna/PasswordManager/commit/d7f4d4ef2ce374163ee9841752e8fe8e943c004b
 
 Открытие в Visual Studio
 cd PasswordManager
