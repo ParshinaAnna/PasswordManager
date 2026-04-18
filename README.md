@@ -36,12 +36,12 @@
 
 Способ 1: Скачать релиз
 1. Перейдите в раздел [Releases](https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/PasswordManager/releases)
-2. Скачайте `PasswordManager.zip`
+2. Скачайте `диплом.zip`
 3. Распакуйте в любую папку
 4. Запустите `PasswordManager.exe`
 
 Способ 2: Сборка из исходников
-git clone https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/PasswordManager.git
+
 
 Открытие в Visual Studio
 cd PasswordManager
